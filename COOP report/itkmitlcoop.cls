@@ -55,7 +55,7 @@
 
 \titleformat{\subsection}
 {\normalfont\bfseries}{\thesubsection}{0.5em}{}
-% \titlespacing*{\subsection}{0pt}{1em}{0.25em}
+\titlespacing*{\subsection}{0pt}{1em}{0.25em}
 
 % ##### Re-define word
 \renewcommand{\bibname}{บรรณานุกรม}
